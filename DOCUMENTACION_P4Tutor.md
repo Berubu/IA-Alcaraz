@@ -6,7 +6,7 @@ Este proyecto implementa un **Tutor Inteligente especializado en algoritmos** ut
 Entrena un modelo capaz de enseñar y explicar conceptos de algoritmos de forma pedagógica.
 
 ---
-
+/ 
 ## Tabla de Contenidos
 
 1. [Requisitos e Instalación](#requisitos-e-instalación)
