@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-Este proyecto implementa un **Tutor Inteligente especializado en algoritmos** utilizando el modelo de lenguaje **Llama-3**  y fue optimizado con técnicas de finetuning. El modelo está diseñado para ejecutarse en **Google Colab** ya que la capacid del equipo fisico es insuficiente. 
+Este proyecto implementa un **Tutor Inteligente especializado en algoritmos** utilizando el modelo de lenguaje **Llama-3**  y fue optimizado con técnicas de finetuning. El modelo está diseñado para ejecutarse en **Google Colab** ya que la capacidad del equipo fisico es insuficiente. 
 Entrena un modelo capaz de enseñar y explicar conceptos de algoritmos de forma pedagógica.
 
 ---
